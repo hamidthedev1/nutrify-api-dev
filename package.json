@@ -1,0 +1,20 @@
+{
+  "name": "nutrify",
+  "version": "1.0.0",
+  "description": "nutrition tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Hamid Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.11.0",
+    "mongoose-dateonly": "^1.0.6"
+  }
+}

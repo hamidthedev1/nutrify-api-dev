@@ -1,0 +1,183 @@
+ [
+    {
+      "name": "Injera",
+      "category": "Staple",
+      "calories": 200,
+      "protein": 4,
+      "carbohydrates": 42,
+      "fat": 0.7,
+      "fiber": 3,
+      "description": "A fermented flatbread made from teff flour, a staple in Ethiopian cuisine."
+    },
+    {
+      "name": "Shiro Wat",
+      "category": "Stew",
+      "calories": 250,
+      "protein": 8,
+      "carbohydrates": 30,
+      "fat": 10,
+      "fiber": 6,
+      "description": "A thick stew made from chickpea flour, onions, garlic, and spices."
+    },
+    {
+      "name": "Doro Wat",
+      "category": "Stew",
+      "calories": 350,
+      "protein": 25,
+      "carbohydrates": 10,
+      "fat": 20,
+      "fiber": 2,
+      "description": "A spicy chicken stew cooked with berbere spice and served with injera."
+    },
+    {
+      "name": "Kitfo",
+      "category": "Meat",
+      "calories": 400,
+      "protein": 30,
+      "carbohydrates": 0,
+      "fat": 30,
+      "fiber": 0,
+      "description": "Ethiopian-style minced raw beef, often seasoned with mitmita and niter kibbeh."
+    },
+    {
+      "name": "Gomen",
+      "category": "Vegetable",
+      "calories": 150,
+      "protein": 6,
+      "carbohydrates": 10,
+      "fat": 8,
+      "fiber": 5,
+      "description": "Collard greens sautéed with garlic, onions, and spices."
+    },
+    {
+      "name": "Misir Wat",
+      "category": "Stew",
+      "calories": 230,
+      "protein": 12,
+      "carbohydrates": 30,
+      "fat": 5,
+      "fiber": 7,
+      "description": "A red lentil stew cooked with berbere spice and onions."
+    },
+    {
+      "name": "Tibs",
+      "category": "Meat",
+      "calories": 300,
+      "protein": 28,
+      "carbohydrates": 5,
+      "fat": 15,
+      "fiber": 1,
+      "description": "Sautéed beef or lamb with onions, garlic, and Ethiopian spices."
+    },
+    {
+      "name": "Firfir",
+      "category": "Breakfast",
+      "calories": 270,
+      "protein": 10,
+      "carbohydrates": 35,
+      "fat": 10,
+      "fiber": 4,
+      "description": "A dish made from shredded injera mixed with berbere and spiced butter."
+    },
+    {
+      "name": "Chechebsa",
+      "category": "Breakfast",
+      "calories": 300,
+      "protein": 8,
+      "carbohydrates": 40,
+      "fat": 12,
+      "fiber": 3,
+      "description": "A wheat-based breakfast dish sautéed with butter and berbere."
+    },
+    {
+      "name": "Atmit",
+      "category": "Drink",
+      "calories": 180,
+      "protein": 5,
+      "carbohydrates": 30,
+      "fat": 3,
+      "fiber": 2,
+      "description": "A traditional porridge drink made from barley flour, sugar, and milk."
+    },
+    {
+      "name": "Genfo",
+      "category": "Breakfast",
+      "calories": 350,
+      "protein": 10,
+      "carbohydrates": 50,
+      "fat": 12,
+      "fiber": 4,
+      "description": "A thick porridge made from barley flour and served with spiced butter."
+    },
+    {
+      "name": "Bula",
+      "category": "Drink",
+      "calories": 200,
+      "protein": 6,
+      "carbohydrates": 35,
+      "fat": 2,
+      "fiber": 3,
+      "description": "A porridge-like dish made from enset (false banana) starch."
+    },
+    {
+      "name": "Kolo",
+      "category": "Snack",
+      "calories": 250,
+      "protein": 8,
+      "carbohydrates": 35,
+      "fat": 7,
+      "fiber": 6,
+      "description": "Roasted barley or other grains, often mixed with peanuts and spices."
+    },
+    {
+      "name": "Fasolia",
+      "category": "Vegetable",
+      "calories": 180,
+      "protein": 6,
+      "carbohydrates": 25,
+      "fat": 4,
+      "fiber": 5,
+      "description": "A dish made from green beans and carrots sautéed with onions and spices."
+    },
+    {
+      "name": "Ayib",
+      "category": "Dairy",
+      "calories": 200,
+      "protein": 15,
+      "carbohydrates": 5,
+      "fat": 10,
+      "fiber": 0,
+      "description": "Ethiopian cottage cheese, often served as a side with spicy dishes."
+    },
+    {
+      "name": "Dabo",
+      "category": "Staple",
+      "calories": 250,
+      "protein": 7,
+      "carbohydrates": 45,
+      "fat": 5,
+      "fiber": 3,
+      "description": "Traditional Ethiopian bread, usually baked from wheat or barley flour."
+    },
+    {
+      "name": "Tej",
+      "category": "Drink",
+      "calories": 150,
+      "protein": 0,
+      "carbohydrates": 20,
+      "fat": 0,
+      "fiber": 0,
+      "description": "A traditional Ethiopian honey wine, often home-brewed and served in a berele."
+    },
+    {
+      "name": "Beso",
+      "category": "Snack",
+      "calories": 200,
+      "protein": 6,
+      "carbohydrates": 35,
+      "fat": 3,
+      "fiber": 4,
+      "description": "A traditional Ethiopian energy snack made from roasted barley flour mixed with honey or milk."
+    }
+  ]
+
